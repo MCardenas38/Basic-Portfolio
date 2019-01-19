@@ -1,0 +1,124 @@
+h1,h2,h3{
+    background-color: #4aaaa5;
+    color: white;
+    position: absolute;
+}
+
+header{
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    padding: 50px;
+    border-bottom: 2px solid #cccccc;
+    margin-bottom: 0px;
+}
+
+footer{
+    background-color: #666666;
+    color: white;
+    position: absolute;
+    padding: 30px;
+    text-align: center;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    border-top: 10px solid #4aaaa5;
+}
+
+body{
+    background-image: url("../images/dust_scratches.png");
+    /* width: 600px; */
+    height: 100%;
+    margin: 0 auto 0 auto;
+}
+
+main{
+    color: #777777;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 800px;
+    height: 300px;
+    margin: 15px auto 15px auto;
+    padding: 70px 40px 0px 0px;
+    position: relative; 
+}
+
+img{
+    float: left;
+    margin: 20px;
+    overflow: auto;
+    border: 1px solid black;
+}
+
+#name{
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    top: 43px;
+    left: 85px;
+}
+
+p{
+    overflow: auto;
+    letter-spacing: 0.1em;
+    padding: 20px;
+}
+
+html{
+    height: 100%;
+}
+
+a{
+    position: absolute;
+    color: gray;
+    border-right: 2px solid #cccccc;
+    padding-right: 2px; 
+    bottom: 3px;
+    text-decoration: none;
+}
+
+#about{
+    right: 30%;
+}
+
+#portfolio{
+    right: 24%;
+}
+
+#contact{
+    right: 18.5%
+}
+
+.page-title{
+    position: absolute;
+    background-color: white;
+    color: #4aaaa5;
+    border-bottom: 2px solid #cccccc;
+    padding: 0px 600px 10px 0px;
+    margin: 0px 0px 0px 0px;
+    top: 11px;
+    left: 20px;
+}
+
+.pic_link{
+    background-color: #4aaaa5;
+    color:white;
+    border-right: 0px solid #cccccc;
+}
+
+#portfolio-link{
+    bottom: 90px;
+    left: 21px;
+    padding: 15px 112px 15px 112px;
+}
+
+#fan-link{
+    bottom: 90px;
+    left: 420px;
+    padding: 15px 143px 15px 145px
+}
+
+form{
+    position: absolute;
+    padding: 0px 0px 0px 40px;
+}
